@@ -1,9 +1,11 @@
 # WADDLE CHAT
 A simple web-app Chat Application I wrote in Go and HTML, I'll keep updating it, hope you enjoy ;)
 # How to run the executables
-To run the executables, you just need to download nameofthefile.exe in the Executables folder and double-click on it. If it doesn't open (which happens a lot of times) just open the cmd and run it by typing nameofthefile.exe (remember to move to the right folder!).<br>
-An interesting function I implemented is to type on the cmd when running it: <br><strong>nameofthefile.exe -addr="4008"</strong><br>
-This will change the port of localhost to localhost:4008 (open it on your browser and...Ta-dan it suddenly works, here you have Waddle-Chat!).
+Extract the .zip in the Beta 0.1 folder and open the Waddle-Chat-0.1.exe file inside the zip by double-clicking on it or with the cmd (to have more control and also the function to change the port of the address by typing Waddle-Chat-0.1.exe -addr=":4097" in the command prompt, of course the number can be whatever you want).
+Then open your browser and type localhost:8080 (or the number you chose with the cmd) and you will be able to chat, if you have more PCs connected with the same IP, DNS and, obviously, Network, you can chat between them! It's fun, isn'it?
+To stop it just close the cmd ;)
 # How to run the code
-I'll upload the code soon, for now enjoy the executables and tell me what do you think, remember that it's still the BETA!
+I'll upload the code soon, for now enjoy the executables and tell me what you think, remember that it's still the BETA!
+# Next versions
+The next versions will come about every week with bug fixes and new functions
 
