@@ -7,5 +7,7 @@ To stop it just close the cmd ;)
 # How to run the code
 I'll upload the code soon, for now enjoy the executables and tell me what you think, remember that it's still the BETA!
 # Next versions
-The next versions will come about every week with bug fixes and new functions
+The next versions will come about every week with bug fixes and new functions.<br>
+<strong>Beta 0.2</strong><br>
+In this version I uploaded the graphics, currently working on user accounts and having some trouble implementing them. (If you know Golang contact me thanks).
 
