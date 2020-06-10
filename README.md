@@ -15,5 +15,7 @@ I'll upload the code soon, for now enjoy the executables and tell me what you th
 The next versions will come about every week with bug fixes and new functions.<br>
 <strong>Beta 0.2</strong><br>
 In this version I uploaded the graphics, currently working on user accounts and having some trouble implementing them. (If you know Golang contact me thanks).<br>
-<strong>1.0</strong>
+<strong>1.0</strong><br>
+In this version I updated the graphics, updated the .go back-end and finally hosted it on a website thanks to a friend!<br>
+This is the first official version which is not a beta, enjoy it!
 
